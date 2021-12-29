@@ -1,0 +1,26 @@
+.appbar {
+    background-color: #44706e;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.search-link-navbar {
+    color: white;
+    text-decoration: none;
+}
+
+.search-link-navbar:hover {
+    color: rgb(172, 248, 229);
+}
+
+.submit-link-navbar {
+    color: white;
+    text-decoration: none;
+}
+
+.submit-link-navbar:hover {
+    color: rgb(172, 248, 229);
+}

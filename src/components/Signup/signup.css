@@ -1,0 +1,38 @@
+TextField {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+body {
+    text-align: center;
+    background-color: #e1f1f0;
+}
+form {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.title {
+    color: #325251;
+}
+.tagline {
+    color: #44706e
+}
+.signup-title {
+    font-weight: normal;
+    color: #44706e
+}
+.signup-button {
+    width: 100%
+}
+.login-option-link {
+    text-decoration: None;
+    color: #0b4b94;
+}
+.login-option {
+    font-weight: normal;
+    color: #343841;
+}
+
+.login-link {
+    text-decoration: none;
+    color: inherit;
+}

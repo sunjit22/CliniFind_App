@@ -1,0 +1,45 @@
+.heading {
+    font-size: 5rem;
+    color: #325251;
+    margin-bottom: 25px;
+}
+
+.headline {
+    margin-top: 0;
+    margin-bottom: 50px;
+    font-size: 2rem;
+    color: #44706e;
+}
+
+.main-desc {
+    margin-right: 20%;
+    margin-left: 20%;
+    color: #203434;
+    font-size: 1.5rem;
+}
+
+.login-button {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgba(29, 77, 68, 0.79);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+
+.login-button:hover {
+    color: #203434;
+    background-color: #69b9aa;
+    cursor: pointer;
+}
+
+.signup-link {
+    font-size: 1rem;
+}

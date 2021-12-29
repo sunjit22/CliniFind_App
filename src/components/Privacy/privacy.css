@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+  color: teal;
+}
+
+.footer {
+  flex-shrink: 0;
+  padding: 20px;
+}
+
+.title {
+  text-align: justify;
+  /*vertical-align: middle;*/
+  font-weight: bold;
+}
+
+.footer {flex-shrink: 0; padding: 20px;}
+
+
+.wrapper {
+  box-sizing: border-box;
+  position: relative;
+  padding-bottom: 1em; /* Height of footer */
+  min-height: 100%;
+}

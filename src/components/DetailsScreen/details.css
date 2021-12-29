@@ -1,0 +1,27 @@
+.cf-details-body {
+    background: #8FC5B5;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: left;
+
+    color: #000000;
+}
+
+.cf-details-title{
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cf-details-button{
+    background: #8FC5B5;
+    position: relative;
+    color: black;
+    background: #D8E6E1;
+    border-radius: 10px;
+}
+
+

@@ -1,0 +1,11 @@
+hr.solid {
+  border-top: 3px solid #645f5f;
+}
+
+.bottom-border {
+  border-bottom: grey ;
+}
+
+.react-grid-Cell {
+  border: none;
+}
